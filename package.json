@@ -1,0 +1,27 @@
+{
+  "name": "reactlearncodeacademy",
+  "version": "1.0.0",
+  "description": "webpack-tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafiq10/reactLearnCodeAcademy.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "bilrafal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafiq10/reactLearnCodeAcademy/issues"
+  },
+  "homepage": "https://github.com/rafiq10/reactLearnCodeAcademy#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "lodash": "^4.17.5",
+    "webpack": "^4.1.0"
+  }
+}
